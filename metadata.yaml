@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '25993'
     url: http://www.gutenberg.org/2009/agents/25993
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23686#The-Life-and-Adventures-of-Poor-Puss
 gutenberg_issued: '2007-12-03'
 gutenberg_type: Text
 identifiers:
